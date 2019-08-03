@@ -12,7 +12,7 @@
 #ini warna
 green="\033[32;1m"
 yellow="\033[33;1m"
-bluesky="\033[34;1mBlink" 
+bluesky="\033[34;1m" 
 magenta="\033[35;1m"
 red="\3[37;1m"
 cyan="\033[36;1m"
@@ -96,32 +96,32 @@ echo -e $green"  YOUTUBE  : -Dek Achy Channel-"
 echo -e $green"-------------------------------"
 echo -e $green"  TOOLS    : ALL TOOLS"
 echo -e $yellow"  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo  "      PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI"
-echo  "                   GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)					"
+echo -e $white"PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI"
+echo -e $white"             GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :) "
 echo 
 echo 
-echo  -e $red"=========================================="
-echo  -e $red"=      -e $cyan" TOOLS HIBURAN"                  -e $red="
-echo  -e $red"=      -e $cyan" -D4rk4chy-   "                  -e $red="
-echo  -e $red"=========================================="
+echo -e $red"=========================================="
+echo -e $red"=      -e $cyan TOOLS HIBURAN                 -e $red ="
+echo -e $red"=      -e $cyan -D4rk4chy-                    -e $red ="
+echo -e $red"=========================================="
 echo  
-echo  -e $yellow"[1]" " Brute Force Facebook"
-echo  -e $green"=========================================="
-echo  -e $yellow"[2]" " SPAM KOMUNIKASI"
-echo  -e $green"=========================================="
-echo  -e $yellow"[7]" " Sadap Camera"
+echo -e $yellow"[1]" " Brute Force Facebook"
+echo -e $green"=========================================="
+echo -e $yellow"[2]" " SPAM KOMUNIKASI"
+echo -e $green"=========================================="
+echo -e $yellow"[7]" " Sadap Camera"
 echo 
-echo  -e $red"=========================================="
-echo  -e $red"=      -e $cyan" TOOLS NETWORK"                   -e $red="
-echo  -e $red"=      -e $cyan" -D4rk4chy-   "                   -e $red="
-echo  -e $red"=========================================="
+echo -e $red"=========================================="
+echo -e $red"=      -e $cyan" TOOLS NETWORK"                   -e $red="
+echo -e $red"=      -e $cyan" -D4rk4chy-   "                   -e $red="
+echo -e $red"=========================================="
 echo  
 echo
-echo  -e $yellow"[01]" " INSTALL MIKHMON"
+echo -e $yellow"[01]" " INSTALL MIKHMON"
 
 
 
-echo  -e $green"[exit]" " exit"
+echo -e $green"[exit]" " exit"
 echo " =================================================="
 echo 
 echo 
