@@ -101,8 +101,8 @@ echo -e $white"             GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN 
 echo 
 echo 
 echo -e $red"=========================================="
-echo -e $red"=      -e $cyan TOOLS HIBURAN                 -e $red ="
-echo -e $red"=      -e $cyan -D4rk4chy-                    -e $red ="
+echo -e $red"=      $cyan TOOLS HIBURAN                 $red="
+echo -e $red"=      $cyan -D4rk4chy-                    $red="
 echo -e $red"=========================================="
 echo  
 echo -e $yellow"[1]" " Brute Force Facebook"
@@ -112,8 +112,8 @@ echo -e $green"=========================================="
 echo -e $yellow"[7]" " Sadap Camera"
 echo 
 echo -e $red"=========================================="
-echo -e $red"=      -e $cyan" TOOLS NETWORK"                   -e $red="
-echo -e $red"=      -e $cyan" -D4rk4chy-   "                   -e $red="
+echo -e $red"=      $cyan TOOLS NETWORK                 $red="
+echo -e $red"=      $cyan -D4rk4chy-                    $red="
 echo -e $red"=========================================="
 echo  
 echo
