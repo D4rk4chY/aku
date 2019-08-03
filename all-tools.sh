@@ -14,7 +14,7 @@ green="\033[32;1m"
 yellow="\033[33;1m"
 bluesky="\033[34;1m" 
 magenta="\033[35;1m"
-red="\3[37;1m"
+red="\033[037;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 clear
